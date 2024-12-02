@@ -9,7 +9,3 @@ int main(){
 void fun(){
     int b=2;
 }
-
-void age(){
-    prinf("as");
-}
