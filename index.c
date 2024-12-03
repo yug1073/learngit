@@ -10,3 +10,8 @@ int main(){
 void fun(){
     int b=2;
 }
+
+void branch(){
+    int k=4;
+    printf("newbranch");
+}
