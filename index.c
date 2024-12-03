@@ -14,4 +14,5 @@ void fun(){
 void branch(){
     int k=4;
     printf("newbranch");
+    printf("newbranch print again");
 }
